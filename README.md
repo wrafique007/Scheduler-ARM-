@@ -13,4 +13,4 @@ I developed a small scheduler on Cortex M4 using SYS TICK, PENDSV and SVC except
  * STM32CubeIDE
 
 # Source Code Description
- * Src/main.c  : This file contains the scheduler code
+ * Src/main.c  : This file contains the scheduler and exception handlers code

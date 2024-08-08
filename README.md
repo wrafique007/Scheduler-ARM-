@@ -2,5 +2,5 @@
 I developed a small scheduler on Cortex M4 using SYS TICK, PENDSV and SVC exceptions
 
 ### Hardware Used
-MCU = STM32F407VG
-Debugger = ST-LINK/V2-A
+  MCU = STM32F407VG
+  Debugger = ST-LINK/V2-A
